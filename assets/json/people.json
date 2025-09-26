@@ -1,0 +1,21 @@
+[{
+    "name": "slark",
+    "type": "agility",
+    "avgGPM": "600",
+    "isCarry": true
+}, {
+    "name": "skywrath mage",
+    "type": "intelligence",
+    "avgGPM": "450",
+    "isCarry": false
+}, {
+    "name": "dragon knight",
+    "type": "strength",
+    "avgGPM": "550",
+    "isCarry": true
+}, {
+    "name": "crystal maiden",
+    "type": "intelligence",
+    "avgGPM": "400",
+    "isCarry": false
+}]
