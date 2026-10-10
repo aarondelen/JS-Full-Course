@@ -1,7 +1,7 @@
 {
-    "name": "slark",
-    "type": "agility",
-    "avgGPM": "600",
-    "isCarry": true,
-    "hobbies": ["jungler", "pusher", "killer"]
+  "name": "slark",
+  "type": "agility",
+  "avgGPM": "600",
+  "isCarry": true,
+  "hobbies": ["jungler", "pusher", "killer"]
 }
